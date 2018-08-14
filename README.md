@@ -2,7 +2,7 @@
 Basic object oriented programming exercises
 (Each branch of the repository corresponds to an individual Lab exercise)
 
-Lab-1:
+Lab-1:Revisiting C Programming 1
 1. Write a program to round off an integer “i” to the next largest multiple of another integer “j”. For example, 256 days when rounded off to the next largest multiple divisible by a week results into 259.
 
 2.	A number is entered through the keyboard. The number may contain 1,2,3,4, or 5 digits. Write a program to find the number of digits in the number.
@@ -22,7 +22,7 @@ Advance practice problems :
 2.	Write a program to find K’th Smallest/Largest Element in Unsorted Array 
 3.	Write a program to evaluate postfix expression.
 
-Lab-2:
+Lab-2:Revisiting C Programming 2
 1.	Write a Menu Driven Program to Read List of Student names and perform the following operations using array of character pointers.
 (A)	To insert a Student name
 (B)	To delete a name
